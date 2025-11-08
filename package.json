@@ -31,6 +31,7 @@
     "@vue/tsconfig": "^0.8.1",
     "eslint": "^9.37.0",
     "eslint-plugin-vue": "~10.5.0",
+    "javascript-obfuscator": "^4.1.1",
     "jiti": "^2.6.1",
     "npm-run-all2": "^8.0.4",
     "typescript": "~5.9.0",

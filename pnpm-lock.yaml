@@ -51,6 +51,9 @@ importers:
       eslint-plugin-vue:
         specifier: ~10.5.0
         version: 10.5.1(@typescript-eslint/parser@8.46.2(eslint@9.39.0(jiti@2.6.1))(typescript@5.9.3))(eslint@9.39.0(jiti@2.6.1))(vue-eslint-parser@10.2.0(eslint@9.39.0(jiti@2.6.1)))
+      javascript-obfuscator:
+        specifier: ^4.1.1
+        version: 4.1.1
       jiti:
         specifier: ^2.6.1
         version: 2.6.1
