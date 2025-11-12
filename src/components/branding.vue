@@ -30,7 +30,15 @@
                         <span class="text-xl"><b>100%</b><br><span class="text-gray-500">Natural</span></span> -->
                     </div>
             </div>
-            <img class="rounded-4xl block object-center shadow-xl/30" src="../assets/drink.jpg" style="max-inline-size: 100%; width: min(1000px, 80%);" alt="drink">
+            <picture class="mx-auto flex items-center justify-center">
+                
+                <img
+                    fetchpriority="high"
+                    decoding="async" 
+                    loading="lazy" 
+                    role="presentation" 
+                    class="rounded-4xl block object-center shadow-xl/30" src="../assets/drink.jpg" style="max-inline-size: 100%; width: min(1000px, 80%);" alt="drink">
+            </picture>
                 <!-- <div class="bg-[url('./assets/drink.jpg/')] bg-cover bg-center rounded-4xl block w-[100%]" style=""></div> -->
                 
         </div>
